@@ -6,5 +6,14 @@
 不要被名字所诱惑，不是用GO语言写的，采用的技术是C++和 MFC,周末花了两天撸的。
 
 2. [WxJmp](WxJmp/WxJmp.md)
-<br>小游戏 “跳一跳”外挂，具体原理和操作请看关注微信公众号<br>
+<br>小游戏 “跳一跳”外挂 手动版<br>
+3. WxJmpAuto
+<br>小游戏 “跳一跳”外挂 自动版<br>
+4. BackDoor
+<br>实现是一个Windows下的双管道后门<br>
+5. NetWork
+<br>网络方面的小脚本<br>
+6. Ygdy8Crawl
+<br>电影天堂的爬虫<br>
+### 以上项目的原理和思路均可以在公众号中找到答案
 ![](qiye2.jpg)
